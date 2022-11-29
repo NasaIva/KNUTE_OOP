@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFeJ4B3fXk1T00D4PuZp20dPosY0Ohxng8fFU2Y5t6Y/KgIEjEs6yC6U9MJp4EyK7Ecc90ev3Pl3Z/IImWzntQ==",
+  "success": true,
+  "projectFilePath": "D:\\Університет\\2nd year\\ООП\\Lab2-main\\Lab2_4\\Lab2_4\\Lab2_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\nasai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nasai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nasai\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
